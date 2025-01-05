@@ -2,7 +2,7 @@
 
 ## 🎯 Project's Goal
 
-This project allows the user to Accounts, such as create, list information and close it, using microservices and CQRS architecture. Also, is possible to create transactions to an Account, such as Deposits and Withdraws. This project was made with educational purpose.
+This project allows the user to Accounts, such as create, list information and close it, using microservices and CQRS architecture. Also, is possible to create transactions to an Account, such as Deposits and Withdraws. This project was made for educational purpose.
 
 ## 🔧 Stack
 
