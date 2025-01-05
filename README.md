@@ -37,7 +37,9 @@ HTTP Method: `POST`
 Body fields:
 
 `accountHolder`: Holder's name (String);
+
 `accountType`: Account type (String), possible values are SAVINGS or CURRENT;
+
 `openingBalance`: Account inicial balance.
 
 #### Request Body:
@@ -105,6 +107,7 @@ HTTP Method: `GET`
 Path Variable: 
 
 `equalityType`: Allowed values are GREATER_THAN or LESS_THAN;
+
 `balance`: Inicial or max balance to be listed.
 
 ## 💸Transactions
