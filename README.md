@@ -94,7 +94,7 @@ Path Variable:
 
 `holderId`: Holder ID.
 
-### Get Account By Holder
+### List Accounts Greater or Lesser than Balance
 
 This endpoint allows the user to list all Accounts greater or lesser than by balance path variable.
 
